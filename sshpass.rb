@@ -1,3 +1,4 @@
+# brew install https://raw.githubusercontent.com/0x89-sam/homebrew-formulas/master/sshpass.rb
 # Source: https://gist.github.com/lalyos/28b35c29d4f8d2c1f293
 require 'formula'
 
